@@ -1,9 +1,7 @@
 package pt.mateus.TestingGit;
 
 public class Test {
-
-	public void testMethod2(){
-	    
-	}
-	
+  public void testMethod(){
+    
+  }
 }
